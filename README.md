@@ -20,4 +20,4 @@ GANs however, can be notoriously difficult to train, and are extremely sensitive
 <img src="https://i.imgur.com/NaKtJs0.png" width="360" style="margin-bottom:32px"/>
 
 
-We'll use the [Anime Face Dataset](https://github.com/Mckinsey666/Anime-Face-Dataset), which consists of over 63,000 cropped anime faces. Note that generative modeling is an unsupervised learning task, so the images do not have any labels. Most of the code in this tutorial is based [on this notebook](https://www.kaggle.com/splcher/starter-anime-face-dataset). 
+I used the [Anime Face Dataset](https://github.com/Mckinsey666/Anime-Face-Dataset), which consists of over 63,000 cropped anime faces. 
